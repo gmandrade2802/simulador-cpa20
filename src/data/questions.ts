@@ -726,5 +726,497 @@ export const questions: Question[] = [
     ],
     correctAnswer: 0,
     category: "Códigos de Regulação e Melhores Práticas",
+  },
+  {
+    "id": 61,
+    "question": "Compete privativamente ao Banco Central do Brasil",
+    "options": [
+      "fixar as diretrizes e normas da política cambial.",
+      "fiscalizar o mercado de valores mobiliários.",
+      "coordenar as políticas monetária e fiscal.",
+      "realizar as operações de redesconto."
+    ],
+    "correctAnswer": 3,
+    "category": "Sistema Financeiro Nacional"
+  },
+  {
+    "id": 62,
+    "question": "No Brasil, compete ao Conselho Monetário Nacional (CMN),\nI. disciplinar o crédito, em todas as suas modalidades, e as operações creditícias em todas as suas formas, inclusive aceites, avais e prestações de quaisquer garantias por parte das instituições financeiras.\nII. regular a constituição, funcionamento e fiscalização das Instituições Financeiras.\nIII. efetuar a compra e venda de títulos públicos federais com o objetivo de executar os serviços do meio circulante.\nEstá correto o que se afirma em",
+    "options": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I, II e III.",
+      "II e III, apenas."
+    ],
+    "correctAnswer": 1,
+    "category": "Sistema Financeiro Nacional"
+  },
+  {
+    "id": 63,
+    "question": "Segundo a Resolução n° 30 da CVM, os profissionais que fazem recomendação de produtos de investimento para clientes têm o dever, dentre outras atribuições, de verificar se\nI. a situação financeira do cliente é compatível com o produto, serviço ou operação apresentada.\nII. o produto, serviço ou operação é adequado aos objetivos de investimento do cliente.\nIII. o cliente possui conhecimento necessário para compreender os riscos relacionados ao produto, serviço ou operação apresentada.\nEstá correto o que se afirma em",
+    "options": [
+      "I e II, apenas.",
+      "I, II e III.",
+      "II e III, apenas.",
+      "I e III, apenas."
+    ],
+    "correctAnswer": 1,
+    "category": "Ética e Regulamentação"
+  },
+  {
+    "id": 64,
+    "question": "A legislação e regulamentação, que dispõem sobre os crimes de lavagem de dinheiro ou ocultação de bens, direitos e valores, define que",
+    "options": [
+      "estão sujeitos às punições aplicá veis aos crimes previstos nessa legislação, todos que contribuem para qualquer uma das etapas do processo de lavagem de dinheiro.",
+      "o Banco Central é o único órgão competente para editar normativos referentes à prevenção e combate desses crimes.",
+      "as punições estabelecidas no Código Penal não se aplicam a esses crimes.",
+      "a ocorrência de infração penal precedente não é necessária para que se caracterize um crime de lavagem de dinheiro."
+    ],
+    "correctAnswer": 0,
+    "category": "Prevenção à Lavagem de Dinheiro"
+  },
+  {
+    "id": 65,
+    "question": "Ao discutir com o gestor do seu portfólio, André afirma: \"não perdi dinheiro nessas ações que estão em baixa, pois nem as vendi, ainda\". Nesse caso, ele apresenta o viés da heurística",
+    "options": [
+      "do excesso de confiança.",
+      "da ilusão de controle.",
+      "da representatividade.",
+      "da aversão à perda."
+    ],
+    "correctAnswer": 3,
+    "category": "Finanças Comportamentais"
+  },
+  {
+    "id": 66,
+    "question": "Com a finalidade de prevenir o envolvimento do sistema financeiro em ilícitos, o cadastro dos clientes e as informações sobre as transações realizadas",
+    "options": [
+      "devem ser implementados quando a instituição financeira assim julgar conveniente.",
+      "devem ser conservados durante o período mínimo de cinco anos a partir do encerramento da conta ou da conclusão da transação.",
+      "devem ser conservados durante o período mínimo de dez anos a partir do encerramento da conta ou da conclusão da transação.",
+      "são facultativos caso a operação seja realizada por pessoa jurídica que exerça atividades de promoção imobiliária ou compra e venda de imóveis."
+    ],
+    "correctAnswer": 1,
+    "category": "Prevenção à Lavagem de Dinheiro"
+  },
+  {
+    "id": 67,
+    "question": "Nelson, além de um analista de investimento, é um crítico do chamado \"preço alvo\" e, portanto, sempre busca recomendar apenas a compra e venda, sem relacionar prováveis ganho ou preço. Nesse caso, ele tenta evitar que seus clientes incorram no viés da heurística",
+    "options": [
+      "da ancoragem.",
+      "da representatividade.",
+      "da disponibilidade.",
+      "do framing."
+    ],
+    "correctAnswer": 0,
+    "category": "Finanças Comportamentais"
+  },
+  {
+    "id": 68,
+    "question": "Aplicações em títulos hipotecados, emitidos por empresas europeias, foram oferecidas a um investidor, que decidiu não aportar recursos nesse tipo de investimento por associá-lo à recente crise de algumas economias europeias, apesar do retorno atrativo. Caso a decisão desse investidor tenha sido tomada, apenas com base neste evento recente, pode-se afirmar que ele foi influenciado pela heurística da",
+    "options": [
+      "ancoragem.",
+      "representatividade.",
+      "ilusão do controle.",
+      "disponibilidade."
+    ],
+    "correctAnswer": 3,
+    "category": "Finanças Comportamentais"
+  },
+  {
+    "id": 69,
+    "question": "Segundo a Resolução n° 30 da CVM, o profissional autorizado a recomendar produtos de investimento para clientes deve manter as informações relativas ao perfil de seus clientes atualizadas num intervalo máximo de _____ e proceder a nova análise e classificação das categorias de valores mobiliários em intervalos não superiores a _________.\nAs lacunas das frases deverão ser corretamente preenchidas por",
+    "options": [
+      "24 (vinte e quatro) meses e 5 (cinco) anos.",
+      "5 (cinco) anos, em ambos os casos.",
+      "5 (cinco) anos e 24 (vinte e quatro) meses.",
+      "24 (vinte e quatro) meses, em ambos os casos."
+    ],
+    "correctAnswer": 0,
+    "category": "Ética e Regulamentação"
+  },
+  {
+    "id": 70,
+    "question": "Segundo a Resolução n° 30 da CVM, o dever de verificar se o cliente possui conhecimento necessário para compreender os riscos dos produtos, serviços e operações ofertadas, dentre outros aspectos, está relacionado",
+    "options": [
+      "à necessidade futura de recursos e o valor das receitas regulares declaradas pelo cliente.",
+      "à natureza das operações já realizadas pelo cliente no mercado de valores mobiliá rios e o período em que tais operações foram realizadas.",
+      "às finalidades do investi mento no mercado de valores mobiliários e o período em que o cliente deseja manter o investimento.",
+      "à tolerância e capacidade do cliente para assumir os riscos das operações ofertadas."
+    ],
+    "correctAnswer": 1,
+    "category": "Ética e Regulamentação"
+  },
+  {
+    "id": 71,
+    "question": "Umas das possíveis medidas a serem implementadas pelo Banco Central do Brasil (BACEN) para reduzir a quantidade de dinheiro em circulação na economia e a exposição das instituições financeiras ao risco de crédito é",
+    "options": [
+      "a contenção dos gastos públicos.",
+      "o aumento dos depósitos compulsórios.",
+      "a compra de títulos públicos no Open Market.",
+      "o aumento da alíquota do Imposto sobre Produtos Industrializados (IPI)."
+    ],
+    "correctAnswer": 1,
+    "category": "Política Monetária"
+  },
+  {
+    "id": 72,
+    "question": "Um determinado título de renda fixa zero cupom tem seu valor de resgate de R$ 1.000,00 com vencimento em 12 meses. A taxa de juros do mercado para esse mesmo período é de 7,00% a.a. Nesse caso, o valor presente desse título é",
+    "options": [
+      "superior a R$ 1.000,00.",
+      "igual a R$ 1.000,00.",
+      "impossível de ser determinado.",
+      "inferior a R$ 1.000,00."
+    ],
+    "correctAnswer": 3,
+    "category": "Renda Fixa"
+  },
+  {
+    "id": 73,
+    "question": "Quanto mais alto for o PU (preço unitário) de um título de renda fixa zero-cupom",
+    "options": [
+      "menor será a quantidade de parcelas de amortização.",
+      "maior será o rating do emissor.",
+      "menor será o rendimento até seu resgate final.",
+      "maior será o risco de crédito do emissor."
+    ],
+    "correctAnswer": 2,
+    "category": "Renda Fixa"
+  },
+  {
+    "id": 74,
+    "question": "Os contratos futuro de ações da B3,",
+    "options": [
+      "têm risco de contraparte.",
+      "são padronizados.",
+      "não exigem depósito de margem de garantia.",
+      "não possibilitam a alavancagem de resultados."
+    ],
+    "correctAnswer": 1,
+    "category": "Derivativos"
+  },
+  {
+    "id": 75,
+    "question": "Em uma Oferta Pública de distribuição de uma debenture simples o responsável por representar os interesses dos investidores que adquirirem o ativo perante a companhia emissora é o",
+    "options": [
+      "Banco Coordenador",
+      "Custodiante",
+      "Banco Mandatário",
+      "Agente Fiduciário"
+    ],
+    "correctAnswer": 3,
+    "category": "Renda Fixa"
+  },
+  {
+    "id": 76,
+    "question": "Entre as modalidades que caracterizam o abuso de poder por parte do acionista controlador se inclui:\nI. a subscrição de ações com bens estranhos ao objeto social da companhia.\nII. contratar, direta ou indiretamente, com a companhia, segundo interesses pessoais.\nIII. o exercício de cargo de administrador ou fiscal com os deveres e responsabilidades próprios do cargo.\nEstão corretas as alternativas:",
+    "options": [
+      "II",
+      "III",
+      "I",
+      "I e II"
+    ],
+    "correctAnswer": 3,
+    "category": "Mercado de Ações"
+  },
+  {
+    "id": 77,
+    "question": "Ao recomendar um título de renda fixa Tesouro IPCA+2024 (NTN- B Principal), um especialista de investimento deverá explicar ao seu cliente que\nI. ao manter o título até seu vencimento, a rentabilidade obtida será formada pela variação do IPCA e, também, pela taxa de juro do momento da aquisição.\nII. variações na Taxa Selic terão influência direta na rentabilidade, uma vez que o retorno é dado pela variação do IPCA mais a Taxa Selic.\nIII. em um ambiente econômico de alta inflacionária a rentabilidade real do investidor é mantida.\nEstá correto o que se afirma em",
+    "options": [
+      "II, apenas.",
+      "I, II e III.",
+      "I e III, apenas.",
+      "I, apenas."
+    ],
+    "correctAnswer": 2,
+    "category": "Tesouro Direto"
+  },
+  {
+    "id": 78,
+    "question": "O Sistema de Pagamentos Brasileiro - SPB destina-se a promover a transferência",
+    "options": [
+      "de reservas bancá rias que representem recursos próprios das instituições financeiras que possuam conta no Sistema de Transferência de Reservas - STR, em tempo real, com a consequente redução do risco sistêmico.",
+      "de fundos interbancários, próprios ou de terceiros, que podem ser liquidados, inclusive em tempo real, com a consequente redução do risco sistêmico.",
+      "de recursos financeiros próprios de instituições que pertençam a um mesmo conglomerado financeiro por meio da Câmara Interbancária de Pagamentos -CIP, em tempo real, com a consequente redução do risco sistêmico.",
+      "exclusiva de fundos entre os correntistas de um mesmo conglomerado financeiro, em tempo real, com a consequente redução do risco sistêmico."
+    ],
+    "correctAnswer": 0,
+    "category": "Sistema Financeiro Nacional"
+  },
+  {
+    "id": 79,
+    "question": "Os ativos de renda variável se caracterizam por terem",
+    "options": [
+      "sua remuneração definida apenas no resgate da aplicação inicialmente feita.",
+      "seus preços corrigidos por índices de mercado até sua data de vencimento.",
+      "sua remuneração previamente definida, na aquisição do ativo.",
+      "seus preços pós-fixados, corrigidos por taxas flutuantes até sua data de vencimento."
+    ],
+    "correctAnswer": 0,
+    "category": "Renda Variável"
+  },
+  {
+    "id": 80,
+    "question": "Um investidor realizou um swap Pré x DI, ficando ativo na ponta pré-fixada e passivo na ponta pós-fixada. Nesse caso, esse investidor realizará um ganho no vencimento desse derivativo caso ocorra",
+    "options": [
+      "a queda da taxa de juro.",
+      "a queda da inflação.",
+      "o aumento do Ibovespa.",
+      "o aumento da taxa de juro."
+    ],
+    "correctAnswer": 3,
+    "category": "Derivativos"
+  },
+  {
+    "id": 81,
+    "question": "Os Certificados de Depósito Bancário (CDB) e as Letras de Crédito são títulos emitidos por\nI. Bancos Comerciais.\nII. Cooperativas de Crédito.\nIII. Bancos de Investimento.\nEstá correto o que se afirma em",
+    "options": [
+      "II, apenas.",
+      "I, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 3,
+    "category": "Renda Fixa"
+  },
+  {
+    "id": 82,
+    "question": "Para efeitos de apuração e pagamento do imposto mensal sobre os ganhos líquidos, para o investidor pessoa física, as perdas incorridas em operações de swap em relação aos ganhos líquidos auferidos em outras operações de renda variável",
+    "options": [
+      "não poderão ser compensadas.",
+      "poderão ser integralmente compensadas.",
+      "não poderão ser compensadas se excederem aos demais ganhos.",
+      "poderão ser compensadas até o limite dos ganhos."
+    ],
+    "correctAnswer": 3,
+    "category": "Tributação"
+  },
+  {
+    "id": 83,
+    "question": "Segundo a Regulação da Comissão de Valores Mobiliários (CVM), um gestor de carteiras NÃO poderá aplicar recursos em ativos financeiros negociados no exterior, caso o Fundo seja classificado como",
+    "options": [
+      "Renda Fixa Simples.",
+      "de Ações.",
+      "Cambial.",
+      "Multimercado."
+    ],
+    "correctAnswer": 0,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 84,
+    "question": "O objetivo de uma classe Renda Fixa Simples de um Fundo de Investimento destinado ao segmento de varejo é o de ter uma carteira de títulos sem risco de crédito e baixo risco de mercado. Esse objetivo é atingido com uma carteira composta por",
+    "options": [
+      "títulos de instituições financeiras e de alta duração.",
+      "títulos do governo federal e de alta duração.",
+      "títulos do governo federal e de baixa duração.",
+      "títulos de instituições financeiras e de baixa duração."
+    ],
+    "correctAnswer": 2,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 85,
+    "question": "Um fundo que aplica 100% de seu patrimônio líquido em títulos representativos da dívida externa de\nresponsabilidade da União transacionados no mercado internacional, deve ser classificado, segundo a regulamentação vigente, como Fundo",
+    "options": [
+      "Renda Fixa Crédito Privado.",
+      "Renda Fixa Dívida Externa.",
+      "Multimercado.",
+      "Cambial."
+    ],
+    "correctAnswer": 1,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 86,
+    "question": "Segundo a Comissão de Valores Mobiliários (CVM), o fundo de investimento que permite ao investidor conhecer o valor da cota no momento de sua aplicação é o",
+    "options": [
+      "Cambial.",
+      "Ações.",
+      "Multimercado.",
+      "Renda Fixa."
+    ],
+    "correctAnswer": 3,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 87,
+    "question": "Em um Fundo de Investimento em Direitos Creditórios (FIDC)\nI - as cotas subordinadas possuem maiores riscos, caso os créditos não sejam performados.\nII - são exigidos ratings ( classificação de risco de agências de risco de mercado) apenas para as cotas sêniores.\nIII - as cotas sêniores possuem prioridade para fins de pagamento de amortização e resgates.\nEstá correto o que se afirma em:",
+    "options": [
+      "II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, apenas."
+    ],
+    "correctAnswer": 1,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 88,
+    "question": "Um Fundo de Investimento que oferece diversificação, facilidade no balanceamento da carteira, possui cotas negociadas na Bolsa de Valores e é constituído sob a forma de condomínio aberto é o",
+    "options": [
+      "Exchange Traded Funds (ETFs).",
+      "Fundo de investimento em Direito Creditório (FIDC).",
+      "Fundo de Investimento imobiliário (FII).",
+      "Fundo de Investimento em Participações (FIP)."
+    ],
+    "correctAnswer": 0,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 89,
+    "question": "Um investidor que queira investir em fundos de investimento em ações (FIA) abertos, indexados ao Ibovespa, ou em ETF (Exchage Traded Funds), que tenham como referência o Ibovespa,",
+    "options": [
+      "pode comprar e vender ambos os fundos em suas respectivas instituições financeiras distribuidoras.",
+      "pode comprar e vender o ETF na B3, via home broker; e comprar e vender o FIA em sua instituição financeira distribuidora.",
+      "pode comprar e vender ambos os fundos na B3, via home broker.",
+      "pode comprar e vender o ETF em sua instituição financeira distribuidora; e comprar e vender o FIA na B3, via home broker."
+    ],
+    "correctAnswer": 1,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 90,
+    "question": "As classes tipificadas como Renda Fixa, Ações e Cambial são classificados a partir",
+    "options": [
+      "da composição da carteira em relação aos emissores dos títulos (públicos ou privados).",
+      "do prazo médio da sua carteira de títulos.",
+      "do principal fator de risco associado à sua carteira de títulos.",
+      "do seu parâmetro de referência (benchmark)."
+    ],
+    "correctAnswer": 2,
+    "category": "Fundos de Investimento"
+  },
+  {
+    "id": 91,
+    "question": "Um cliente que possui um plano de previdência complementar do tipo Vida Gerador de Benefício Livre - VGBL perguntou a seu gerente se poderia fazer a portabilidade de seus recursos para sua mãe. O gerente respondeu que a portabilidade dos recursos acumulados no VGBL",
+    "options": [
+      "poderá ser realizada e não haverá incidência de imposto de renda.",
+      "poderá ser realizada, mas haverá incidência de imposto de renda.",
+      "não poderá ser realizada, pois é vedada para planos do tipo VGBL.",
+      "não poderá ser realizada, pois é vedada entre participantes distintos."
+    ],
+    "correctAnswer": 3,
+    "category": "Previdência"
+  },
+  {
+    "id": 92,
+    "question": "Um indivíduo investiu há mais de 12 anos em um plano de previdência complementar aberta do tipo Plano Gerador de Benefício Livre (PGBL). No momento do resgate optou pelo regime de tributação compensável (tabela progressiva). A alíquota do Imposto de Renda que incidiu na fonte, no momento do resgate desse plano foi de",
+    "options": [
+      "15% sobre o valor total resgatado.",
+      "10% sobre o valor total resgatado.",
+      "15% sobre o rendimento.",
+      "10% sobre o rendimento."
+    ],
+    "correctAnswer": 0,
+    "category": "Previdência/Tributação"
+  },
+  {
+    "id": 93,
+    "question": "MMônica decidiu contratar um plano de previdência complementar do tipo Vida Gerador de Benefício Livre (VGBL), com aportes mensais de RS 2.000,00 e Tábua Biométrica BR-EMSsb. Seu objetivo é o de acumular o maior valor possível em 30 anos, para converter a reserva acumulada em um benefício de renda mensal vitalícia. Nesse caso, ela deverá selecionar, na fase de diferimento, um plano que possua a _____ taxa de carregamento e a ______ rentabilidade do fundo; e, na fase de concessão do benefício, o _____ percentual de reversão do excedente financeiro.\nAs lacunas da frase deverão ser preenchidas corretamente por",
+    "options": [
+      "menor - menor - menor",
+      "menor - maior - menor",
+      "maior - maior - menor",
+      "menor - maior - maior"
+    ],
+    "correctAnswer": 3,
+    "category": "Previdência"
+  },
+  {
+    "id": 94,
+    "question": "A taxa de carregamento cobrada, no momento do resgate, de um Plano de Previdência Complementar Aberta incide sobre o valor",
+    "options": [
+      "nominal das contribuições realizadas.",
+      "total resgatado, nos planos do tipo PGBL.",
+      "nominal das contribuições realizadas, acrescidos dos rendimentos.",
+      "dos rendimentos, nos planos do tipo."
+    ],
+    "correctAnswer": 0,
+    "category": "Previdência"
+  },
+  {
+    "id": 95,
+    "question": "Sr. Alfredo, de 80 anos, tem uma única fonte de renda anual que totaliza R$ 240.000,00, provenientes da participação nos lucros de uma empresa onde é sócio. Em relação à possibilidade de utilização do Plano Gerador de Benefício Livre - PGBL, para obtenção de benefícios fiscais,",
+    "options": [
+      "não é recomendado contratar um Plano Gerador de Benefícios Livre - PGBL, uma vez que sua renda não possibilita a obtenção de benefícios fiscais, mesmo que os aportes neste plano se mantenham dentro do limite máximo de 12% da sua renda bruta anual.",
+      "recomenda-se contratar um Plano Gerador de Benefício Livre - PGBL, com valor máximo de 12% da sua renda bruta anual, para diminuição da sua base de cálculo para cobrança de imposto de renda.",
+      "recomenda-se contratar um Plano Gerador de Benefício Livre - PGBL, uma vez que sua idade permite a contratação deste plano sem valor máximo para obtenção de benefícios fiscais e desta forma, pagar menos impostos.",
+      "não é recomendado contratar um Plano Gerador de Benefícios Livre - PGBL, uma vez que sua idade não possibilita a obtenção de benefícios fiscais, mesmo que os aportes neste plano se mantenham dentro do limite máximo de 12% da sua renda bruta anual."
+    ],
+    "correctAnswer": 1,
+    "category": "Previdência/Tributação"
+  },
+  {
+    "id": 96,
+    "question": "O rating de crédito de uma empresa, avaliado por empresas classificadoras, é uma forma de tentar quantificar a",
+    "options": [
+      "variação do preço das ações de uma empresa, negociadas na Bolsa de Valores.",
+      "capacidade e intenção da empresa em honrar suas dívidas.",
+      "exposição dos títulos de uma empresa a variações nas taxas de câmbio.",
+      "capacidade de geração de caixa de uma empresa."
+    ],
+    "correctAnswer": 1,
+    "category": "Risco"
+  },
+  {
+    "id": 97,
+    "question": "Pelo princípio da dominância entre carteiras, é correto afirmar que um investidor racional escolherá, entre duas carteiras de investimentos com",
+    "options": [
+      "riscos iguais, aquela com maior retorno esperado.",
+      "retornos esperados diferentes, aquela com maior tracking error.",
+      "retornos esperados iguais, aquela com maior risco.",
+      "riscos diferentes, aquela com menor retorno esperado."
+    ],
+    "correctAnswer": 0,
+    "category": "Gestão de Carteiras"
+  },
+  {
+    "id": 98,
+    "question": "Na tentativa de montar uma carteira de ações, sintetizando as variações no índice Bovespa, um investidor deve observar",
+    "options": [
+      "a moda.",
+      "o beta.",
+      "o Índice de Sharpe.",
+      "a duration."
+    ],
+    "correctAnswer": 1,
+    "category": "Gestão de Carteiras"
+  },
+  {
+    "id": 99,
+    "question": "O uso de um sistema de Back Testing é uma forma de\nI. aferir a validade do modelo de risco utilizado.\nII. avaliar o quanto um portfólio pode perder em um cenário hipotético de stress macroeconômico.\nIII. calcular o desvio-padrão da diferença entre os retornos da carteira.\nEstá correto o que se afirma em",
+    "options": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I, II e III.",
+      "II e III, apenas."
+    ],
+    "correctAnswer": 0,
+    "category": "Risco"
+  },
+  {
+    "id": 100,
+    "question": "O índice de Sharpe mede",
+    "options": [
+      "o risco não sistemático de um fundo de investimento.",
+      "o retorno acumulado de um fundo de investi mento em relação ao seu benchmark.",
+      "a duration, ou prazo médio, dos títulos que compõem um fundo de investimento.",
+      "a relação do risco assumido e o retorno obtido em fundos de investimento."
+    ],
+    "correctAnswer": 3,
+    "category": "Gestão de Carteiras"
+  },
+  {
+    "id": 101,
+    "question": "Uma das medidas de risco de um ativo mais frequentemente usada é o desvio padrão dos seus retornos. Esta medida reflete a distância",
+    "options": [
+      "mínima entre um dado retorno e o mínimo dos retornos.",
+      "média entre um dado retorno e o máxi mo dos retornos.",
+      "máxima entre um dado retorno e a média dos retornos.",
+      "média entre um dado retorno e a média dos retornos."
+    ],
+    "correctAnswer": 3,
+    "category": "Risco"
   }
 ];
