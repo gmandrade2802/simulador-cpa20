@@ -66,7 +66,7 @@ export const QuestionCard = ({
               {question.category}
             </Badge>
           )}
-          <h2 className="text-xl md:text-2xl font-semibold text-foreground">
+          <h2 className="text-xl md:text-2xl font-semibold text-foreground whitespace-pre-wrap">
             {question.question}
           </h2>
         </div>
@@ -82,7 +82,7 @@ export const QuestionCard = ({
               onClick={() => !isReviewMode && onSelectAnswer(index)}
               disabled={isReviewMode}
             >
-              <span className="text-base">{option}</span>
+              <span className="text-base whitespace-pre-wrap">{option}</span>
               {getOptionIcon(index)}
             </Button>
           ))}

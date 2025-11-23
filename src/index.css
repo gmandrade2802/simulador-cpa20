@@ -114,4 +114,11 @@ All colors MUST be HSL.
   body {
     @apply bg-background text-foreground;
   }
+  
+@layer utilities {
+  .whitespace-preserve-breaks {
+    white-space: pre-wrap;
+  }
+}
+
 }
