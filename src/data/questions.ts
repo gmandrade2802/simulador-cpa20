@@ -767,7 +767,7 @@ export const questions: Question[] = [
     "id": 64,
     "question": "A legislação e regulamentação, que dispõem sobre os crimes de lavagem de dinheiro ou ocultação de bens, direitos e valores, define que",
     "options": [
-      "estão sujeitos às punições aplicá veis aos crimes previstos nessa legislação, todos que contribuem para qualquer uma das etapas do processo de lavagem de dinheiro.",
+      "estão sujeitos às punições aplicáveis aos crimes previstos nessa legislação, todos que contribuem para qualquer uma das etapas do processo de lavagem de dinheiro.",
       "o Banco Central é o único órgão competente para editar normativos referentes à prevenção e combate desses crimes.",
       "as punições estabelecidas no Código Penal não se aplicam a esses crimes.",
       "a ocorrência de infração penal precedente não é necessária para que se caracterize um crime de lavagem de dinheiro."
@@ -840,8 +840,8 @@ export const questions: Question[] = [
     "question": "Segundo a Resolução n° 30 da CVM, o dever de verificar se o cliente possui conhecimento necessário para compreender os riscos dos produtos, serviços e operações ofertadas, dentre outros aspectos, está relacionado",
     "options": [
       "à necessidade futura de recursos e o valor das receitas regulares declaradas pelo cliente.",
-      "à natureza das operações já realizadas pelo cliente no mercado de valores mobiliá rios e o período em que tais operações foram realizadas.",
-      "às finalidades do investi mento no mercado de valores mobiliários e o período em que o cliente deseja manter o investimento.",
+      "à natureza das operações já realizadas pelo cliente no mercado de valores mobiliários e o período em que tais operações foram realizadas.",
+      "às finalidades do investimento no mercado de valores mobiliários e o período em que o cliente deseja manter o investimento.",
       "à tolerância e capacidade do cliente para assumir os riscos das operações ofertadas."
     ],
     "correctAnswer": 1,
@@ -1200,7 +1200,7 @@ export const questions: Question[] = [
     "question": "O índice de Sharpe mede",
     "options": [
       "o risco não sistemático de um fundo de investimento.",
-      "o retorno acumulado de um fundo de investi mento em relação ao seu benchmark.",
+      "o retorno acumulado de um fundo de investimento em relação ao seu benchmark.",
       "a duration, ou prazo médio, dos títulos que compõem um fundo de investimento.",
       "a relação do risco assumido e o retorno obtido em fundos de investimento."
     ],
@@ -1212,11 +1212,83 @@ export const questions: Question[] = [
     "question": "Uma das medidas de risco de um ativo mais frequentemente usada é o desvio padrão dos seus retornos. Esta medida reflete a distância",
     "options": [
       "mínima entre um dado retorno e o mínimo dos retornos.",
-      "média entre um dado retorno e o máxi mo dos retornos.",
+      "média entre um dado retorno e o máximo dos retornos.",
       "máxima entre um dado retorno e a média dos retornos.",
       "média entre um dado retorno e a média dos retornos."
     ],
     "correctAnswer": 3,
     "category": "Risco"
-  }
+  },
+  {
+  "id": 102,
+  "question": "Uma diminuição dos meios de pagamento poderá ocorrer quando o Banco Central do Brasil",
+  "options": [
+    "Emprestar dinheiro aos bancos comerciais",
+    "Diminuir a taxa de redesconto",
+    "Comprar títulos públicos em operações de mercado aberto",
+    "Elevar a alíquota do depósito compulsório sobre os depósitos à vista"
+  ],
+  "correctAnswer": 3,
+  "category": "Política Monetária"
+ },
+ {
+  "id": 103,
+  "question": "O regime cambial no Brasil é flutuante sujo tendo intervenção do Banco Central. Um aumento do preço do dólar iria ocasionar",
+  "options": [
+    "Aumento da Importação",
+    "Valorização cambial",
+    "Diminuição da exportação",
+    "Desvalorização cambial"
+  ],
+  "correctAnswer": 3,
+  "category": "Regime Cambial"
+ },
+ {
+  "id": 104,
+  "question": "Em um determinado ano, o saldo de balanço de pagamentos de um país foi positivo, então pode-se dizer que:",
+  "options": [
+    "O saldo do balanço de transações correntes foi negativo",
+    "O saldo da balança comercial do país também foi positivo",
+    "A poupança interna foi maior que a externa",
+    "As reservas internacionais aumentaram neste ano"
+  ],
+  "correctAnswer": 3,
+  "category": "Macroeconomia"
+ },
+ {
+  "id": 105,
+  "question": "Em um regime de câmbio flexível ou flutuante, como o adotado pelo Brasil, uma valorização do Real pode ser gerada por:\n\nI. Um aumento na taxa básica de juros brasileira.\nII. Um aumento da aversão ao risco dos ativos brasileiros.\nIII. Um aumento nos juros norte-americanos.\nIV. Uma redução nos gastos de brasileiros no exterior.\n\nEstá correto o que se afirma apenas em:",
+  "options": [
+    "I e IV, apenas",
+    "I e II, apenas",
+    "I, II e III, apenas",
+    "II e III, apenas"
+  ],
+  "correctAnswer": 0,
+  "category": "Regime Cambial"
+ },
+ {
+  "id": 106,
+  "question": "Em relação ao Produto Interno Bruto (PIB) de um país, um aumento nas despesas do governo e no consumo das famílias provocam, respectivamente, no PIB:",
+  "options": [
+    "Uma redução e uma redução",
+    "Um aumento e uma redução",
+    "Uma redução e um aumento",
+    "Um aumento e um aumento"
+  ],
+  "correctAnswer": 3,
+  "category": "Macroeconomia"
+ },
+ {
+  "id": 107,
+  "question": "Em uma nota divulgada ao mercado, o Banco Central do Brasil (BACEN) demonstrou preocupação com o aquecimento do nível da atividade econômica e do atual excesso de liquidez.\n\nDe acordo com a nota, poderiam ser adotadas medidas para reduzir a oferta de crédito. Nesse caso, uma das medidas possíveis a ser adotada pelo BACEN é a de:",
+  "options": [
+    "Reduzir a taxa de redesconto para empréstimos de assistência a liquidez",
+    "Recomprar títulos públicos em operações de mercado aberto (open market)",
+    "Ampliar a emissão de papel-moeda",
+    "Aumentar o recolhimento compulsório sobre os depósitos à vista e a prazo"
+  ],
+  "correctAnswer": 3,
+  "category": "Política Monetária"
+ }
 ];

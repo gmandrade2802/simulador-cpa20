@@ -60,6 +60,17 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+Tecnologias Usadas
+
+- React 18 - Framework frontend
+- TypeScript - Tipagem estática
+- Vite - Build tool e dev server
+- Tailwind CSS - Estilização
+- Shadcn/ui - Componentes UI (baseado em Radix UI)
+- React Router - Navegação
+- Lucide React - Ícones
+
+
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/55b579bf-d093-4e49-a1cd-dd8dd681c119) and click on Share -> Publish.
